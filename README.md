@@ -1,4 +1,7 @@
 # La démographie européenne de 2010 à aujourd’hui  - Projet personnel de Licence 3 MIASHS (Semestre 5)
+<p align="center">
+<img src="carte_taux_naissance_2016.jpg" alt="Carte des taux de naissance en 2016" width="500"/>
+</p>
 
 ### Objectif du projet : 
 
@@ -22,3 +25,4 @@ les jeux de données
 - __images_anim__ : dossier d'images utilisées dans mon code Analyse_&_Visualisation.ipynb
 - __scatterplot_anim.gif__ : GIF réalisé et utilisé par mon code Analyse_&_Visualisation.ipynb
 - __ellipse.png__ : image utilisée dans mon code Analyse_&_Visualisation.ipynb
+- __carte_taux_naissance_2016.jpg__ : image utilisée dans mon README.md
