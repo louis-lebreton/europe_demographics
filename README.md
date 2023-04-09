@@ -9,7 +9,7 @@ Répondre à la question : __"Comment a évolué la démographie des pays europ�
 potentiels facteurs explicatifs ?"__ en utilisant Python.
 
 ### Librairies utilisées :
-pandas, numpy, matplotlib, scipy, seaborn, folium, wordcloud,googletrans, bs4 (BeautifulSoup), os, random, PIL, IPython.display.
+pandas, numpy, matplotlib, scipy, seaborn, folium, wordcloud, googletrans, bs4 (BeautifulSoup), os, random, PIL, IPython.display.
 
 ### Fichiers / Dossiers :
 
